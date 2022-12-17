@@ -60,20 +60,22 @@ i{
 }
 .sec1{
   margin-left: -20px;
-  background: url(home.jpg) no-repeat;
+  background: url(mainfood.jpeg) no-repeat;
   background-size: cover;
   height: 100vh;
 }
 .sec2{
   margin-left: -20px;
-  background: url(about.jpg) no-repeat;
+  background: url(apple.jpg) no-repeat;
   background-size: cover;
   height: 100vh;
+  background-size: 500px 300px;
+  
 }
 .sec3{
   margin-left: -20px;
-  background: url(portfolio.jpg) no-repeat;
-  background-size: cover;
+  background: url(cake.jpg) no-repeat;
+  background-size: 200px 400px ;
   height: 100vh;
 }
 .sec4{

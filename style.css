@@ -81,7 +81,7 @@ i{
 .sec4{
   margin-left: -20px;
   background: url(gallery.jpg) no-repeat;
-  background-size: cover;
+  background-size: 200px 400px;
   height: 100vh;
 }
 .sec5{

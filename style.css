@@ -116,3 +116,10 @@ p{
 .slide_image{
   margin-left: 260px;
 }
+table, th, td {
+  border:1px solid black;
+}
+table{
+  display: inline-block;
+}
+

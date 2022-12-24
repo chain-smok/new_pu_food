@@ -63,45 +63,19 @@ i{
   background: url(mainfood.jpeg) no-repeat;
   background-size: cover;
   height: 100vh;
-}
-.sec2{
-  margin-left: -20px;
-  background: url(apple.jpg) no-repeat;
-  background-size: cover;
-  height: 100vh;
-  background-size: 500px 300px;
+ 
   
 }
-.sec3{
-  margin-left: -20px;
-  background: url(cake.jpg) no-repeat;
-  background-size: 200px 400px ;
-  height: 100vh;
-}
-.sec4{
-  margin-left: -20px;
-  background: url(gallery.jpg) no-repeat;
-  background-size: 200px 400px;
-  height: 100vh;
-}
-.sec5{
-  margin-left: -20px;
-  background: url(services.jpg) no-repeat;
-  background-size: cover;
-  height: 100vh;
-}
-.sec6{
-  margin-left: -20px;
-  background: url(feedback.jpg) no-repeat;
-  background-size: cover;
-  height: 100vh;
-}
-.sec7{
-  margin-left: -20px;
-  background: url(contact.jpg) no-repeat;
-  background-size: cover;
-  height: 100vh;
-}
+
+.sec1 lable {
+         position:absolute;
+         font-size: 40px;
+         color: blue;
+         top: 50%;
+         left: 50%;
+         transform: translate(-50%, -50%);
+    }
+
 h2{
   font-size: 40px;
   padding: 15px 20px;
